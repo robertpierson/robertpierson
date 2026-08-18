@@ -36,7 +36,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd dist
+          # snk runs in Docker as root, so dist/ is root-owned and git cannot
+          # write .git into it. Copy the artefacts somewhere we own instead.
+          mkdir out && cp dist/* out/
+          cd out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
