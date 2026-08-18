@@ -33,17 +33,16 @@ Palette comes from [robertpierson.github.io](https://github.com/robertpierson/ro
 Hexes appear in two places: the `outputs:` block of the workflow (URL-encoded, `%23` for `#`)
 and the query strings on the stats cards in `README.md`. Change both.
 
-## Card services
+## Images in the README
 
-Third-party renderers, so they can rate-limit or go down:
+Only two, both transparent so nothing draws a white panel over the page:
 
-- `github-readme-stats.vercel.app` — stats, top languages, repo pins
-- `streak-stats.demolab.com` — streak
-- `github-readme-activity-graph.vercel.app` — commit graph
-- `github-profile-trophy.vercel.app` — trophies
-- `komarev.com/ghpvc` — view counter
+- `raw.githubusercontent.com/.../output/snake.svg` — generated here, in this repo
+- `readme-typing-svg.demolab.com` — the animated title, green on transparent
 
-A blank image in the README usually means one of these is down, not that the README broke.
+Everything else is a shields.io badge in `#0F2419` / `#1A6B42`. The third-party stat,
+streak, activity-graph and trophy renderers were removed: they were serving 503s and
+painted their own background panels, which broke the palette.
 
 ## Re-running by hand
 
