@@ -1,0 +1,42 @@
+name: snake
+
+# Redraws the contribution graph as a snake that eats every square,
+# then publishes the SVGs to the `output` branch for the README to embed.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=%231A6B42&color_dots=%23F7F4ED,%23CBE0D2,%2385BB9E,%233E9166,%231A6B42
+            dist/snake-dark.svg?palette=github-dark&color_snake=%236BD79C&color_dots=%230B1F15,%23164A30,%231F7A4C,%233FAE72,%236BD79C
+            dist/snake.gif?color_snake=%231A6B42&color_dots=%23F7F4ED,%23CBE0D2,%2385BB9E,%233E9166,%231A6B42
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(snake): redraw contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
