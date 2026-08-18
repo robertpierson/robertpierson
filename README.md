@@ -23,3 +23,19 @@ build step out of it wherever a single HTML file will do.
 - Side quests: neuroevolution demos, a lifting tracker, a resume-rewrite service, an AI gateway.
 - Bias: static over stateful, native platform features over dependencies, readable over clever.
 
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F2419?style=flat-square&logo=typescript&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/JavaScript-0F2419?style=flat-square&logo=javascript&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/HTML5-0F2419?style=flat-square&logo=html5&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/CSS-0F2419?style=flat-square&logo=css&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/React-0F2419?style=flat-square&logo=react&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F2419?style=flat-square&logo=postgresql&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/Supabase-0F2419?style=flat-square&logo=supabase&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-0F2419?style=flat-square&logo=cloudflare&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/Vercel-0F2419?style=flat-square&logo=vercel&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/PWA-0F2419?style=flat-square&logo=pwa&logoColor=6BD79C" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0F2419?style=flat-square&logo=githubactions&logoColor=6BD79C" />
+</p>
+
