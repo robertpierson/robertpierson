@@ -23,6 +23,20 @@ build step out of it wherever a single HTML file will do.
 - Side quests: neuroevolution demos, a lifting tracker, a resume-rewrite service, an AI gateway.
 - Bias: static over stateful, native platform features over dependencies, readable over clever.
 
+### Contribution graph, eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertpierson/robertpierson/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertpierson/robertpierson/output/snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/robertpierson/robertpierson/output/snake.svg" />
+</picture>
+
+<sub>Regenerated every 12 hours by <a href="./.github/workflows/snake.yml">.github/workflows/snake.yml</a>.</sub>
+
+</div>
+
 ### Stack
 
 <p>
