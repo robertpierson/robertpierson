@@ -59,3 +59,14 @@ build step out of it wherever a single HTML file will do.
 | **robertpierson.github.io** | Personal site. Static, no build step. Two-colour press: green ink on cream stock. |
 | **jim** | Lifts, body metrics, and a friend-group leaderboard. TypeScript + Postgres. |
 
+### The record
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertpierson&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertpierson&layout=compact&langs_count=8&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&border_color=1A6B42&border_radius=6" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=robertpierson&background=F7F4ED&border=1A6B42&stroke=1A6B42&ring=1A6B42&fire=23935B&currStreakLabel=0F2419&sideLabels=0F2419&dates=55655B&sideNums=0F2419&currStreakNum=1A6B42&border_radius=6" alt="streak" />
+
+</div>
+
