@@ -4,9 +4,8 @@
 
 <p>
   <a href="https://robertpierson.github.io"><img src="https://img.shields.io/badge/site-robertpierson.github.io-1A6B42?style=flat-square&labelColor=0F2419" alt="site" /></a>
-  <img src="https://komarev.com/ghpvc/?username=robertpierson&style=flat-square&color=1A6B42&label=visitors" alt="visitors" />
-  <a href="https://github.com/robertpierson?tab=followers"><img src="https://img.shields.io/github/followers/robertpierson?style=flat-square&color=1A6B42&labelColor=0F2419&label=followers" alt="followers" /></a>
-  <a href="https://github.com/robertpierson?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-15-1A6B42?style=flat-square&labelColor=0F2419" alt="repos" /></a>
+  <a href="https://github.com/robertpierson?tab=repositories"><img src="https://img.shields.io/badge/repositories-1A6B42?style=flat-square&labelColor=0F2419&logo=github&logoColor=F7F4ED" alt="repositories" /></a>
+  <a href="mailto:robertpierson196@gmail.com"><img src="https://img.shields.io/badge/email-1A6B42?style=flat-square&labelColor=0F2419&logo=gmail&logoColor=F7F4ED" alt="email" /></a>
   <a href="../../actions/workflows/snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/robertpierson/robertpierson/snake.yml?style=flat-square&color=1A6B42&labelColor=0F2419&label=snake" alt="snake build" /></a>
 </p>
 
@@ -34,9 +33,20 @@ build step out of it wherever a single HTML file will do.
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/robertpierson/robertpierson/output/snake.svg" />
 </picture>
 
-<sub>Regenerated every 12 hours by <a href="./.github/workflows/snake.yml">.github/workflows/snake.yml</a>.</sub>
+<sub>Redrawn every 12 hours by <a href="./.github/workflows/snake.yml">.github/workflows/snake.yml</a>.</sub>
 
 </div>
+
+### Worked on
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**AICLubDemo**](https://github.com/robertpierson/AICLubDemo) | 60 neural networks teach themselves a game, learning curve drawn live. One HTML file, no install. | HTML, JS |
+| [**tompkins-engineering-club**](https://github.com/robertpierson/tompkins-engineering-club) | Official site for the Tompkins Engineering Design Club. | TypeScript, CSS |
+| [**robertpierson.github.io**](https://github.com/robertpierson/robertpierson.github.io) | Personal site. Static, no build step. Two-colour press: green ink on cream stock. | HTML, CSS, JS |
+| [**jim**](https://github.com/robertpierson/jim) | Lifts, body metrics, and a friend-group leaderboard. | TypeScript, Postgres |
+| [**reenvision-app-curriculum-pages**](https://github.com/robertpierson/reenvision-app-curriculum-pages) | 96 curriculum lessons as self-contained HTML pages. | HTML |
+| [**click-speed-test**](https://github.com/robertpierson/click-speed-test) | Clicks per second, one page, nothing else. | HTML |
 
 ### Stack
 
@@ -54,53 +64,8 @@ build step out of it wherever a single HTML file will do.
   <img src="https://img.shields.io/badge/GitHub%20Actions-0F2419?style=flat-square&logo=githubactions&logoColor=6BD79C" />
 </p>
 
-### Work
-
-<table>
-<tr>
-<td><a href="https://github.com/robertpierson/AICLubDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=AICLubDemo&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
-<td><a href="https://github.com/robertpierson/tompkins-engineering-club"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=tompkins-engineering-club&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/robertpierson/robertpierson.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=robertpierson.github.io&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
-<td><a href="https://github.com/robertpierson/jim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=jim&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_radius=6&border_color=1A6B42" /></a></td>
-</tr>
-</table>
-
-| | |
-| --- | --- |
-| **AICLubDemo** | 60 neural networks teach themselves a game, learning curve drawn live. One HTML file, no install. |
-| **tompkins-engineering-club** | Official site for the Tompkins Engineering Design Club. TypeScript. |
-| **robertpierson.github.io** | Personal site. Static, no build step. Two-colour press: green ink on cream stock. |
-| **jim** | Lifts, body metrics, and a friend-group leaderboard. TypeScript + Postgres. |
-
-### The record
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertpierson&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertpierson&layout=compact&langs_count=8&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&border_color=1A6B42&border_radius=6" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=robertpierson&background=F7F4ED&border=1A6B42&stroke=1A6B42&ring=1A6B42&fire=23935B&currStreakLabel=0F2419&sideLabels=0F2419&dates=55655B&sideNums=0F2419&currStreakNum=1A6B42&border_radius=6" alt="streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertpierson&bg_color=F7F4ED&color=0F2419&line=1A6B42&point=23935B&area=true&area_color=CBE0D2&hide_border=false&border_color=1A6B42&radius=6&custom_title=Commits%20over%20the%20last%2031%20days" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=robertpierson&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
-
-</div>
-
 ---
 
 <div align="center">
-
-<a href="https://robertpierson.github.io"><img src="https://img.shields.io/badge/website-1A6B42?style=for-the-badge&logoColor=F7F4ED&logo=safari" /></a>
-<a href="mailto:robertpierson196@gmail.com"><img src="https://img.shields.io/badge/email-0F2419?style=for-the-badge&logoColor=6BD79C&logo=gmail" /></a>
-<a href="https://github.com/robertpierson?tab=repositories"><img src="https://img.shields.io/badge/repositories-23935B?style=for-the-badge&logoColor=F7F4ED&logo=github" /></a>
-
-<sub>Built with GitHub Actions. The snake is not a metaphor — it just eats the squares.</sub>
-
+<sub>The snake is not a metaphor — it just eats the squares.</sub>
 </div>
