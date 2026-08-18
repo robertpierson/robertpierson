@@ -12,3 +12,14 @@
 </div>
 
 ---
+
+### About
+
+High-school builder from Katy, TX. I ship small, self-contained things and keep the
+build step out of it wherever a single HTML file will do.
+
+- Building **ReEnvision** — an AI-literacy PWA for underserved students: 4 courses, 32 units, 96 lessons.
+- Running the **Tompkins Engineering Design Club** site.
+- Side quests: neuroevolution demos, a lifting tracker, a resume-rewrite service, an AI gateway.
+- Bias: static over stateful, native platform features over dependencies, readable over clever.
+
