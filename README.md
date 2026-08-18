@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=robertpierson&style=flat-square&color=1A6B42&label=visitors" alt="visitors" />
   <a href="https://github.com/robertpierson?tab=followers"><img src="https://img.shields.io/github/followers/robertpierson?style=flat-square&color=1A6B42&labelColor=0F2419&label=followers" alt="followers" /></a>
   <a href="https://github.com/robertpierson?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-15-1A6B42?style=flat-square&labelColor=0F2419" alt="repos" /></a>
+  <a href="../../actions/workflows/snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/robertpierson/robertpierson/snake.yml?style=flat-square&color=1A6B42&labelColor=0F2419&label=snake" alt="snake build" /></a>
 </p>
 
 </div>
