@@ -11,7 +11,7 @@ every push to `main`, and on manual dispatch.
 1. `Platane/snk@v3` reads the public contribution graph for `robertpierson` and animates a
    snake eating each square.
 2. It writes three files into `dist/`: `snake.svg` (light), `snake-dark.svg` (dark), `snake.gif`.
-3. `crazy-max/ghaction-github-pages@v4` force-pushes `dist/` to the orphan `output` branch.
+3. A three-line `git push -f` publishes `dist/` to the orphan `output` branch — no third-party action.
 4. The README embeds them from `raw.githubusercontent.com/.../output/snake.svg` inside a
    `<picture>` so the dark variant swaps in automatically.
 

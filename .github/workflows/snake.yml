@@ -33,10 +33,13 @@ jobs:
             dist/snake.gif?color_snake=%231A6B42&color_dots=%23F7F4ED,%23CBE0D2,%2385BB9E,%233E9166,%231A6B42
 
       - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore(snake): redraw contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "chore(snake): redraw contribution graph"
+          git push -qf "https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git" output
