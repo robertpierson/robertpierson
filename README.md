@@ -84,3 +84,11 @@ build step out of it wherever a single HTML file will do.
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertpierson&bg_color=F7F4ED&color=0F2419&line=1A6B42&point=23935B&area=true&area_color=CBE0D2&hide_border=false&border_color=1A6B42&radius=6&custom_title=Commits%20over%20the%20last%2031%20days" alt="activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=robertpierson&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+
+</div>
+
