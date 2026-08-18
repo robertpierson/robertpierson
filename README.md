@@ -39,3 +39,23 @@ build step out of it wherever a single HTML file will do.
   <img src="https://img.shields.io/badge/GitHub%20Actions-0F2419?style=flat-square&logo=githubactions&logoColor=6BD79C" />
 </p>
 
+### Work
+
+<table>
+<tr>
+<td><a href="https://github.com/robertpierson/AICLubDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=AICLubDemo&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
+<td><a href="https://github.com/robertpierson/tompkins-engineering-club"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=tompkins-engineering-club&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/robertpierson/robertpierson.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=robertpierson.github.io&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_color=1A6B42&border_radius=6" /></a></td>
+<td><a href="https://github.com/robertpierson/jim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robertpierson&repo=jim&bg_color=F7F4ED&title_color=1A6B42&text_color=0F2419&icon_color=23935B&border_radius=6&border_color=1A6B42" /></a></td>
+</tr>
+</table>
+
+| | |
+| --- | --- |
+| **AICLubDemo** | 60 neural networks teach themselves a game, learning curve drawn live. One HTML file, no install. |
+| **tompkins-engineering-club** | Official site for the Tompkins Engineering Design Club. TypeScript. |
+| **robertpierson.github.io** | Personal site. Static, no build step. Two-colour press: green ink on cream stock. |
+| **jim** | Lifts, body metrics, and a friend-group leaderboard. TypeScript + Postgres. |
+
