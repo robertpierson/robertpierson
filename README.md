@@ -92,3 +92,14 @@ build step out of it wherever a single HTML file will do.
 
 </div>
 
+---
+
+<div align="center">
+
+<a href="https://robertpierson.github.io"><img src="https://img.shields.io/badge/website-1A6B42?style=for-the-badge&logoColor=F7F4ED&logo=safari" /></a>
+<a href="mailto:robertpierson196@gmail.com"><img src="https://img.shields.io/badge/email-0F2419?style=for-the-badge&logoColor=6BD79C&logo=gmail" /></a>
+<a href="https://github.com/robertpierson?tab=repositories"><img src="https://img.shields.io/badge/repositories-23935B?style=for-the-badge&logoColor=F7F4ED&logo=github" /></a>
+
+<sub>Built with GitHub Actions. The snake is not a metaphor — it just eats the squares.</sub>
+
+</div>
